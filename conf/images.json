@@ -1,218 +1,94 @@
 {
-    "源文件名": [
-        "转化后的图片路径",
-        "在线路径"
-    ],
-    "创建 PYPI 用户.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\02\\20200226123612_57398.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200226123612_57398.png"
-    ],
-    "添加 token.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\02\\20200226123612_91223.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200226123612_91223.png"
-    ],
-    "配置 token.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\02\\20200226123612_23400.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200226123612_23400.png"
-    ],
-    "Python 安装 - 自定义安装.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\02\\20200227125809_24970.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227125809_24970.png"
-    ],
-    "Python 安装 - 自定义安装目录.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\02\\20200227125809_35231.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227125809_35231.png"
-    ],
-    "Python 安装 - 选择安装选项.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\02\\20200227125809_32246.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227125809_32246.png"
-    ],
-    "Python 安装包下载.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\02\\20200227125809_30587.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227125809_30587.png"
-    ],
-    "完成 token 创建.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\02\\20200227184856_39264.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227184856_39264.png"
-    ],
-    "邮件地址确认.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\02\\20200227184856_09912.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227184856_09912.png"
-    ],
-    "blog_backgroud.jpg": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200308183740_62345.jpg",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200308183740_62345.jpg"
-    ],
-    "最新大纲.jpg": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2019\\04\\20190401214120_53219.jpg",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2019/04/20190401214120_53219.jpg"
-    ],
-    "Manjaro Linux KDE 安装 - 挂载系统镜像.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200314225413_59514.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314225413_59514.png"
-    ],
-    "Manjaro Linux KDE 安装 - 虚拟机属性界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200314225437_11057.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314225437_11057.png"
-    ],
-    "rufus 刻录时的提醒界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200314224917_24050.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314224917_24050.png"
-    ],
-    "rufus 界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200314222937_22735.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314222937_22735.png"
-    ],
-    "Manjaro Linux KDE 安装 - 安装界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200314235421_55816.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314235421_55816.png"
-    ],
-    "Manjaro Linux KDE 安装 - 安装过程摘要.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315004803_01247.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315004803_01247.png"
-    ],
-    "Manjaro Linux KDE 安装 - 更改虚拟机引导方式.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315001632_51511.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315001632_51511.png"
-    ],
-    "Manjaro Linux KDE 安装 - 虚拟机连接优盘.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200314233425_90182.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314233425_90182.png"
-    ],
-    "Manjaro Linux KDE 安装 - 选择 Office 套件.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315004645_25434.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315004645_25434.png"
-    ],
-    "Manjaro Linux KDE 安装 - 选择安装位置.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315004436_65548.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315004436_65548.png"
-    ],
-    "Manjaro Linux KDE 安装 - 选择操作系统时区.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315000422_43005.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315000422_43005.png"
-    ],
-    "Manjaro Linux KDE 安装 - 选择操作系统语言.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315000401_65493.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315000401_65493.png"
-    ],
-    "Manjaro Linux KDE 安装 - 选择操作系统键盘样式.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315000447_19226.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315000447_19226.png"
-    ],
-    "Manjaro Linux KDE 安装 - 配置用户与主机名.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315004556_45195.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315004556_45195.png"
-    ],
-    "BIOS 设置 - 设置密码界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315231440_32312.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315231440_32312.png"
-    ],
-    "BIOS 设置 - 设置引导方式界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315231459_55921.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315231459_55921.png"
-    ],
-    "BIOS 设置 - 退出界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315231421_95732.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315231421_95732.png"
-    ],
-    "Manjaro Linux KDE 安装 - 安装完成界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315220214_75255.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315220214_75255.png"
-    ],
-    "虚拟机固件 - 选择启动磁盘.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315224144_24229.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315224144_24229.png"
-    ],
-    "虚拟机系统使用物理磁盘 - 完成后的配置界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315222739_40234.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315222739_40234.png"
-    ],
-    "虚拟机系统使用物理磁盘 - 添加硬盘.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315221527_53074.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315221527_53074.png"
-    ],
-    "虚拟机系统使用物理磁盘 - 选择物理磁盘.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315222213_87213.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315222213_87213.png"
-    ],
-    "虚拟机系统使用物理磁盘 - 选择磁盘.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315221945_23620.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315221945_23620.png"
-    ],
-    "虚拟机系统使用物理磁盘 - 选择磁盘类型.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315221746_15311.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315221746_15311.png"
-    ],
-    "虚拟机软件关闭虚拟机系统界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315220836_24421.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315220836_24421.png"
-    ],
-    "虚拟机软件启动虚拟机系统 - 选择启动方式.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200315223515_82784.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315223515_82784.png"
-    ],
-    "Manjaro Linux KDE 配置 - Manjaro Mirrors 图形化更新软件.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200316095136_25362.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316095136_25362.png"
-    ],
-    "Manjaro Linux KDE 配置 - Manjaro Mirrors 选择界面.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200316094432_34307.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316094432_34307.png"
-    ],
-    "Manjaro Linux KDE 配置 - 修改终端外观.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200316212658_57302.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316212658_57302.png"
-    ],
-    "Manjaro Linux KDE 配置 - 关闭 Manjaro Hello.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200316091042_24950.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316091042_24950.png"
-    ],
-    "Manjaro Linux KDE 配置 - 删除底部类 Windows 任务栏.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200316183928_03102.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316183928_03102.png"
-    ],
-    "Manjaro Linux KDE 配置 - 添加应用程序菜单栏.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200316184831_23441.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316184831_23441.png"
-    ],
-    "Manjaro Linux KDE 配置 - 获取新的 Plasma 部件.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200316191310_12735.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316191310_12735.png"
-    ],
-    "Windows 设置任务管理器显示 PID.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200318204902_28776.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318204902_28776.png"
-    ],
-    "Windows 查看程序占用端口.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200318205754_47657.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318205754_47657.png"
-    ],
-    "Wireshark 条件抓包.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200318211059_22545.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318211059_22545.png"
-    ],
-    "打开系统高级设置.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200318220842_17200.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318220842_17200.png"
-    ],
-    "配置 MYSQL_PATH.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200318221053_06940.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318221053_06940.png"
-    ],
-    "配置 path 环境变量.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200318221244_61549.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318221244_61549.png"
-    ],
-    "Manjaro Linux KDE 配置 - 安装新图标主题.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200327213935_82045.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200327213935_82045.png"
-    ],
-    "Manjaro Linux KDE 配置 - 搜索新图标主题.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200327212619_77208.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200327212619_77208.png"
-    ],
-    "Manjaro Linux KDE 配置 - 普通用户添加自启动脚本或程序.png": [
-        "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\04\\20200405173052_23024.png",
-        "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/04/20200405173052_23024.png"
-    ]
+    "一级目录": {
+        "二级目录": {
+            "源文件名": "在线路径"
+        }
+    },
+    "目录": {
+        "源文件名": "在线路径"
+    },
+    "Awesome": {},
+    "Life": {},
+    "Study_Git": {},
+    "Study_Linux": {
+        "Base": {},
+        "Linux_发行版相关教程": {
+            "Manjaro Linux KDE 安装 - 挂载系统镜像.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314225413_59514.png",
+            "Manjaro Linux KDE 安装 - 虚拟机属性界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314225437_11057.png",
+            "rufus 刻录时的提醒界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314224917_24050.png",
+            "rufus 界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314222937_22735.png",
+            "Manjaro Linux KDE 安装 - 安装界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314235421_55816.png",
+            "Manjaro Linux KDE 安装 - 安装过程摘要.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315004803_01247.png",
+            "Manjaro Linux KDE 安装 - 更改虚拟机引导方式.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315001632_51511.png",
+            "Manjaro Linux KDE 安装 - 虚拟机连接优盘.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200314233425_90182.png",
+            "Manjaro Linux KDE 安装 - 选择 Office 套件.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315004645_25434.png",
+            "Manjaro Linux KDE 安装 - 选择安装位置.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315004436_65548.png",
+            "Manjaro Linux KDE 安装 - 选择操作系统时区.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315000422_43005.png",
+            "Manjaro Linux KDE 安装 - 选择操作系统语言.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315000401_65493.png",
+            "Manjaro Linux KDE 安装 - 选择操作系统键盘样式.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315000447_19226.png",
+            "Manjaro Linux KDE 安装 - 配置用户与主机名.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315004556_45195.png",
+            "BIOS 设置 - 设置密码界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315231440_32312.png",
+            "BIOS 设置 - 设置引导方式界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315231459_55921.png",
+            "BIOS 设置 - 退出界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315231421_95732.png",
+            "Manjaro Linux KDE 安装 - 安装完成界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315220214_75255.png",
+            "虚拟机固件 - 选择启动磁盘.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315224144_24229.png",
+            "虚拟机系统使用物理磁盘 - 完成后的配置界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315222739_40234.png",
+            "虚拟机系统使用物理磁盘 - 添加硬盘.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315221527_53074.png",
+            "虚拟机系统使用物理磁盘 - 选择物理磁盘.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315222213_87213.png",
+            "虚拟机系统使用物理磁盘 - 选择磁盘.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315221945_23620.png",
+            "虚拟机系统使用物理磁盘 - 选择磁盘类型.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315221746_15311.png",
+            "虚拟机软件关闭虚拟机系统界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315220836_24421.png",
+            "虚拟机软件启动虚拟机系统 - 选择启动方式.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200315223515_82784.png",
+            "Manjaro Linux KDE 配置 - Manjaro Mirrors 图形化更新软件.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316095136_25362.png",
+            "Manjaro Linux KDE 配置 - Manjaro Mirrors 选择界面.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316094432_34307.png",
+            "Manjaro Linux KDE 配置 - 修改终端外观.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316212658_57302.png",
+            "Manjaro Linux KDE 配置 - 关闭 Manjaro Hello.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316091042_24950.png",
+            "Manjaro Linux KDE 配置 - 删除底部类 Windows 任务栏.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316183928_03102.png",
+            "Manjaro Linux KDE 配置 - 添加应用程序菜单栏.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316184831_23441.png",
+            "Manjaro Linux KDE 配置 - 获取新的 Plasma 部件.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200316191310_12735.png",
+            "Manjaro Linux KDE 配置 - 安装新图标主题.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200327213935_82045.png",
+            "Manjaro Linux KDE 配置 - 搜索新图标主题.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200327212619_77208.png",
+            "Manjaro Linux KDE 配置 - 普通用户添加自启动脚本或程序.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/04/20200405173052_23024.png"
+        }
+    },
+    "Study_Network": {
+        "Windows 设置任务管理器显示 PID.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318204902_28776.png",
+        "Windows 查看程序占用端口.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318205754_47657.png",
+        "Wireshark 条件抓包.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318211059_22545.png"
+    },
+    "Study_Python": {
+        "Base": {
+            "创建 PYPI 用户.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200226123612_57398.png",
+            "添加 token.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200226123612_91223.png",
+            "配置 token.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200226123612_23400.png",
+            "Python 安装 - 自定义安装.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227125809_24970.png",
+            "Python 安装 - 自定义安装目录.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227125809_35231.png",
+            "Python 安装 - 选择安装选项.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227125809_32246.png",
+            "Python 安装包下载 2.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227125809_30587.png",
+            "完成 token 创建.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227184856_39264.png",
+            "邮件地址确认.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/02/20200227184856_09912.png",
+            "Python 安装包下载 1.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/04/20200416191031_01033.png"
+        },
+        "Python_基础": {},
+        "Python_模块": {}
+    },
+    "Study_Windows": {
+        "Windows": {
+            "打开系统高级设置.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318220842_17200.png",
+            "配置 MYSQL_PATH.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318221053_06940.png",
+            "配置 path 环境变量.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200318221244_61549.png"
+        }
+    },
+    "知识管理及变现": {},
+    "软件学习": {
+        "Zabbix": {
+            "zabbix 创建主机自动发现规则.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/04/20200410222406_33223.png",
+            "zabbix 各组件关系图.png": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/04/20200408202242_95496.png"
+        }
+    },
+    "Blog": {
+        "Base": {
+            "blog_backgroud.jpg": "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200308183740_62345.jpg"
+        }
+    }
 }

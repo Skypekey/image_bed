@@ -1,18 +1,49 @@
 {
+    "网站名称1": {
+        "一级目录": {
+            "二级目录": {
+                "源文件名": [
+                    "使用图片在线路径",
+                    "使用图片原在线路径",
+                    "证明图片在线路径"
+                ]
+            }
+        }
+    },
+    "网站名称2": {
+        "目录": {
+            "源文件名": [
+                "使用图片在线路径",
+                "使用图片原在线路径",
+                "证明图片在线路径"
+            ]
+        }
+    },
     "pixabay": {
-        "源文件名": [
-            "使用图片转化后的图片路径",
-            "使用图片在线路径",
-            "使用图片原在线路径",
-            "证明图片转化后的图片路径",
-            "证明图片在线路径"
-        ],
-        "blog_backgroud.jpg": [
-            "D:\\001_Workspaces\\git\\image_bed_on_gitee\\images\\2020\\03\\20200308183740_62345.jpg",
-            "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200308183740_62345.jpg",
-            "https://pixabay.com/zh/photos/mountain-sunset-panorama-dawn-3166443/",
-            "D:\\001_Workspaces\\git\\image_bed_on_gitee\\free_image_proof\\pixabay\\2020\\03\\20200308183740_24323.png",
-            "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/free_img_proof/pixabay/2020/03/20200308183740_24323.png"
-        ]
+        "Awesome": {},
+        "Blog": {
+            "Base": {
+                "blog_backgroud.jpg": [
+                    "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/images/2020/03/20200308183740_62345.jpg",
+                    "https://pixabay.com/zh/photos/mountain-sunset-panorama-dawn-3166443/",
+                    "https://gitee.com/Skypekey/image_bed_on_gitee/raw/master/free_img_proof/pixabay/2020/03/20200308183740_24323.png"
+                ]
+            }
+        },
+        "Life": {},
+        "Study_Git": {},
+        "Study_Linux": {
+            "Base": {},
+            "Linux_发行版相关教程": {}
+        },
+        "Study_Network": {},
+        "Study_Python": {
+            "Base": {},
+            "Python_基础": {},
+            "Python_模块": {}
+        },
+        "Study_Windows": {},
+        "知识管理及变现": {},
+        "软件学习": {}
     }
 }
